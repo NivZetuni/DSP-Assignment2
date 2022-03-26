@@ -1,0 +1,15 @@
+Statistics:
+	*we written the different only between the first steps, because only there a combiner was necessary.
+	Without local aggregation:
+		Number of key-value pair which were sent from the map to the reduce in step 1: 277762412.
+		Their size: 9961114026.
+		Map output materialized bytes: 1079889929.
+		Arrived at the reducer: 277762412.
+
+	with local aggregation:
+		Number of key-value pair which were sent from the map to the reduce in step 1: 277762412.
+		Their size: 9961114026.
+		Arrived at the combiner:  278860929.
+		Sent from the combiner: 1715802.
+		Map output materialized bytes: 42160153.	
+		Arrived at the reducer: 617285.

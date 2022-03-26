@@ -1,0 +1,80 @@
+Analysis:
+	1.The pair: "אל ארץ":
+		a.אל ארץ ישראל  0.1754
+		b.אל ארץ אחרת	0.0749
+		c.אל ארץ טובה	0.0443
+		d.אל ארץ יהודה	0.0361
+		e.אל ארץ כנען	0.0349
+	We were expecting to see Israeli terms and bible terms.
+
+	2.	The pair:  " בית ספר":
+		a.בית ספר תיכון	0.0799
+		b.בית ספר זה	0.0744
+		c.בית ספר עברי	0.0520
+		d.בית ספר יסודי	0.0485
+		e.בית ספר עממי	0.0369
+	It was surprising to see that יסודי is not high as תיכון.
+
+	3.The pair: "רוצה לאכול":
+		a.רוצה לאכול את	0.2169
+		b.רוצה לאכול משהו 0.1683
+		c.רוצה לאכול בשר 0.1608
+		d.רוצה לאכול או	0.0801
+		e.רוצה לאכול לחם 0.0602
+	We were hoping to see something tasty, but apparently no one sure what he wants to eat.
+
+	4.The pair: "אני מרגיש":
+		a.אני מרגיש את	0.2599
+		b.אני מרגיש כי	0.0433
+		c.אני מרגיש עצמי 0.0373
+		d.אני מרגיש שאני 0.0801
+		e.אני מרגיש כמו	0.0348
+	We wanted to check what is the most common feel, we were expecting to see good or bad.
+
+	5.The pair: " אני מאמין":
+		a.אני מאמין באמונה 0.2511
+		b.אני מאמין לך	0.0496
+		c.אני מאמין שיש	0.0308
+		d.אני מאמין בכל	0.0304
+		e.אני מאמין כי	0.1556
+	We were expecting to see the first result higher because of the song.
+
+	6.The pair: " איש לא":
+		a.איש לא ידע	0.0935
+		b.איש לא היה	0.0742
+		c.איש לא יכול	0.0315
+		d.איש לא יוכל	0.0263
+		e.איש לא ראה	0.0209
+	We wanted to see what no man can do.
+
+	7.The pair: " אבא שלי":
+		a.אבא שלי היה	0.2736
+		b.אבא שלי אמר	0.0780
+		c.אבא שלי הוא	0.0635
+		d.אבא שלי אומר	0.0460
+		e.אבא שלי כבר	0.0234
+	We wanted to see what “my father” will give.
+
+	8.The pair: " ריח של":
+		a.ריח של בשר	0.0343
+		b.ריח של סבון	0.0310
+		c.ריח של עשן	0.0299
+		d.ריח של בושם	0.0285
+		e.ריח של זיעה	0.0278
+	We wanted to check what are the most common smells.
+
+	9.The pair: " טעם של":
+		a.טעם של ממש	0.1740
+		b.טעם של עוד	0.0956
+		c.טעם של איסור	0.0839
+		d.טעם של יראת	0.0743
+		e.טעם של חיים	0.0785
+	We wanted to check which taste is the most common.
+
+	10.The pair: " אל תשכח":
+		a.אל תשכח את	0.4177
+		b.אל תשכח כי	0.0855
+		c.אל תשכח לנצח	0.0447
+		d.אל תשכח מה	0.0258
+		e.אל תשכח ואל	0.0235
+	We wanted to check what is important not to forget.
